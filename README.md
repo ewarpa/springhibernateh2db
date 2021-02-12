@@ -11,9 +11,9 @@ This is a simple demo for Spring Boot, Hibernate and H2 db.
 Download and import the project. Run as java application.
 
 ### Db Info And Testing
-User Name: sa
-Password: password
-Db Ui Url: http://localhost:8080/h2-console
-Test Url: http://localhost:8080/checkUser?username=ridvan&password=admin
+* User Name: sa
+* Password: password
+* Db Ui Url: http://localhost:8080/h2-console
+* Test Url: http://localhost:8080/checkUser?username=ridvan&password=admin
 
 
