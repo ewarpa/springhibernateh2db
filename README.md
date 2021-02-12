@@ -1,4 +1,4 @@
-# Spring Hiberante H2 Db
+# Spring Boot Hiberante H2 Db
 
 This is a simple demo for Spring Boot, Hibernate and H2 db.
 
