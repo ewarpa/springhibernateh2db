@@ -14,6 +14,6 @@ Download and import the project. Run as java application.
 * User Name: sa
 * Password: password
 * Db Ui Url: http://localhost:8080/h2-console
-* Test Url: http://localhost:8080/checkUser?username=ridvan&password=admin
+* Test Url: http://localhost:8080/checkUser?username=xxxxx&password=admin
 
 
